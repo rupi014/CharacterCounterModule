@@ -1,0 +1,19 @@
+{
+  "name": "charactercountermodule",
+  "version": "1.0.0",
+  "description": "module to count characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rupi014/CharacterCounterModule"
+  },
+  "keywords": [
+    "charcter",
+    "counter"
+  ],
+  "author": "rupi014 <rubens.bali@gmail.com> (https://www.npmjs.com/~rupi014)",
+  "license": "MIT"
+}
