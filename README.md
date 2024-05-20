@@ -14,7 +14,7 @@ npm i charactercountermodule
 Agrega el módulo a tu proyecto JavaScript con el siguiente código:
 
 ```bash
-import { getCurrentContentLength, textFieldLengthValidator } from 'charactercountermodule';
+import { getCurrentContentLength, textFieldLengthValidator } from 'charactercountermodule'
 ```
 
 ## Funciones Disponibles
